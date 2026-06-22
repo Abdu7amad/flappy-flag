@@ -1,1 +1,30 @@
-{"name": "Flappy Flag — Выбери свой флаг", "short_name": "FlappyFlag", "description": "Классическая игра Flappy Bird, но с флагами стран мира. Выбери свой флаг и лети!", "start_url": ".", "display": "fullscreen", "background_color": "#70C5CE", "theme_color": "#4CAF50", "orientation": "portrait-primary", "scope": ".", "icons": [{"src": "https://via.placeholder.com/192x192/4CAF50/FFFFFF?text=FF", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"}, {"src": "https://via.placeholder.com/512x512/4CAF50/FFFFFF?text=FF", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}], "categories": ["game", "entertainment"], "lang": "ru"}
+{
+  "name": "Flappy Flag — Выбери свой флаг",
+  "short_name": "FlappyFlag",
+  "description": "Классическая игра Flappy Bird, но с флагами стран мира. Выбери свой флаг и лети как можно дальше!",
+  "id": "/",
+  "start_url": ".",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "background_color": "#70C5CE",
+  "theme_color": "#4CAF50",
+  "orientation": "portrait-primary",
+  "scope": ".",
+  "dir": "ltr",
+  "lang": "ru",
+  "categories": ["game", "entertainment"],
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/4CAF50/FFFFFF?text=FF",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/4CAF50/FFFFFF?text=FF",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
