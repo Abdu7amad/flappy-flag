@@ -1,8 +1,8 @@
 {
   "name": "Flappy Flag — Выбери свой флаг",
   "short_name": "FlappyFlag",
-  "description": "Классическая игра Flappy Bird, но с флагами стран мира. Выбери свой флаг и лети как можно дальше!",
-  "id": "/",
+  "description": "Классическая игра Flappy Bird с флагами стран мира. Выбери свой флаг и лети!",
+  "id": "/flappy-flag/",
   "start_url": ".",
   "display": "fullscreen",
   "display_override": ["fullscreen", "standalone"],
@@ -15,14 +15,14 @@
   "categories": ["game", "entertainment"],
   "icons": [
     {
-      "src": "https://via.placeholder.com/192x192/4CAF50/FFFFFF?text=FF",
-      "sizes": "192x192",
+      "src": "icon-512.png",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://via.placeholder.com/512x512/4CAF50/FFFFFF?text=FF",
-      "sizes": "512x512",
+      "src": "icon-192.png",
+      "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     }
